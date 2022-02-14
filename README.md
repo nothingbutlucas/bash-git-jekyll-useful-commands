@@ -49,6 +49,18 @@ to pull a repo
 
 to clone a repo
 
+    git branch {branchname}
+
+to create a branch
+
+    git checkout {branchname}
+
+to work in another branch
+
+    git checkout -b {branchname}
+
+to create a branch an work in that branch
+
 ## Jekyll Commands
 
     jekyll serve (On the repo directory)

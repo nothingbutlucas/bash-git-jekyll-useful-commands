@@ -1,4 +1,4 @@
-# Useful-commands
+# Bash-Git-Jekyll-useful-commands
 
 ## Bash / Shell commands
 
